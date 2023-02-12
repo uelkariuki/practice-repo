@@ -6,7 +6,9 @@
 * Sample text 2 
 
 *trial emphasis*
-__strongword__ 
+
+__strongword__
+ 
 > A quoted text
 > > A quoted text 2
 > * Quoted text text text 
